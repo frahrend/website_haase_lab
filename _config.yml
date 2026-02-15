@@ -24,7 +24,7 @@ description: >-
   The Haase Lab explores how small non-coding RNAs preserve genome integrity
   across germ celldevelopment, fertility, and disease.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://haase-lab.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username: "HaaseLab"
 header_pages:
