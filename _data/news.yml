@@ -1,0 +1,19 @@
+general:
+  - title: We are hiring!
+    author: Astrid Haase
+    date: November 23, 2025
+    content: >
+        We're looking for a postdoc and a graduate student with a strong interest in RNA biology, genome integrity, and evolution— who thrive in a collaborative, team-oriented environment.
+        <a href="resources/jobOpening.pdf">Click here to learn more about the positions.</a>
+  - title: Some cool people retweeted our latest manuscript!
+    author: Haase Lab
+    date: December 8, 2025
+    content: >
+        Our latest work is on <a href="https://www.biorxiv.org/content/10.1101/2025.11.05.686807v1.full">BioRxiv</a> and Nobel Laureate Victor Ambros thinks it's <i>very cool!</i> 
+        <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:67yrefm2a3sc74dounzv6zdr/app.bsky.feed.post/3m6q3rmqvkk2w" data-bluesky-cid="bafyreib5n33iooiowu4temwc32zgzim3cwnq5gnorsmidl4zst4q5lclha" data-bluesky-embed-color-mode="light"><p lang="en">Very cool!<br><br><a href="https://bsky.app/profile/did:plc:67yrefm2a3sc74dounzv6zdr/post/3m6q3rmqvkk2w?ref_src=embed">[image or embed]</a></p>&mdash; Victor Ambros (<a href="https://bsky.app/profile/did:plc:67yrefm2a3sc74dounzv6zdr?ref_src=embed">@vambros.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:67yrefm2a3sc74dounzv6zdr/post/3m6q3rmqvkk2w?ref_src=embed">November 28, 2025 at 7:00 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+  - title: NIH gives us amazing lectures and networking opportunities!
+    author: Franziska Ahrend
+    date: November 22, 2025
+    content: >
+        Franziska's personal reflection on meeting Victor Ambros – Nobel laureate and co-discoverer of microRNAs – and why the experience strengthened her belief in the value of curiosity-driven science.
+        <a href="https://franziskaahrend.com/posts/lunchVictorAmbros.html">Read more about her experience of the lunch with Victor Ambros...</a>

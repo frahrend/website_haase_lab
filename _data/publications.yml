@@ -1,0 +1,213 @@
+featured:
+  - title: >
+      Pachytene piRNAs define a conserved program of meiotic gene regulation
+    authors: >
+      Loubalova Z., Ahrend, F., Stoyko, D., Cosby, R., Ralls, S., Meister, G., Macfarlan, T., Haase, A.D.
+    citation: bioRxiv
+    link_label: https://www.biorxiv.org/content/10.1101/2025.11.05.686807v1.abstract
+  - title: >
+      Protocol for assembling, prioritizing, and characterizing piRNA clusters using the piRNA Cluster Builder
+    authors: >
+      Ahrend F., Konstantinidou P., Loubalova Z., Wang Y., Lorenzi H., Meister G., Macfarlan T., Haase A.D.
+    citation: Cell STAR Protocols
+    link_label: https://www.sciencedirect.com/science/article/pii/S2666166725001650?via%3Dihub
+    graphic: /pics/publications/Ahrend2025.png
+  - title: >
+      A comparative roadmap of PIWI-interacting RNAs across seven species
+      reveals insights into de novo piRNA-precursor formation in mammals.
+    authors: >
+      Konstantinidou P, Loubalova Z, Ahrend F, Friman A, Almeida MV, Poulet A,
+      Horvat F, Wang Y, Losert W, Lorenzi H, Svoboda P, Miska EA, van
+      Wolfswinkel JC, Haase AD.
+    citation: Cell Rep. 2024;43(10):114777.
+    link_label: https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01128-8
+    graphic: /pics/publications/Konstantinidou2024.png
+  - title: >
+      Hierarchical length and sequence preferences establish a single major
+      piRNA 3'-end.
+    authors: Stoyko D, Genzor P, Haase AD.
+    citation: iScience. 2022;25(6):104427.
+    link_label: https://www.sciencedirect.com/science/article/pii/S2589004222006988?via%3Dihub
+    graphic: /pics/publications/Stoyko2022.png
+  - title: >
+      Functional editing of endogenous genes through rapid selection of cell
+      pools (Rapid generation of endogenously tagged genes in Drosophila ovarian
+      somatic sheath cells).
+    authors: >
+      Meng Q, Stoyko D, Andrews CM, Konstantinidou P, Genzor P, O T, Elchert
+      AR, Benner L, Sobti S, Katz EY, Haase AD.
+    citation: Nucleic Acids Res. 2022;50(15):e90.
+    link_label: https://academic.oup.com/nar/article/50/15/e90/6603426
+    graphic: /pics/publications/Meng2022.png
+  - title: Cellular abundance shapes function in piRNA-guided genome defense.
+    authors: >
+      Genzor P, Konstantinidou P, Stoyko D, Manzourolajdad A, Marlin Andrews C,
+      Elchert AR, Stathopoulos C, Haase AD.
+    citation: Genome Res. 2021;31(11):2058-2068.
+    link_label: https://genome.cshlp.org/content/31/11/2058
+    graphic: /pics/publications/Genzor2021.png
+  - title: Decoding the 5' nucleotide bias of PIWI-interacting RNAs.
+    authors: >
+      Stein CB, Genzor P, Mitra S, Elchert AR, Ipsaro JJ, Benner L, Sobti S, Su
+      Y, Hammell M, Joshua-Tor L, Haase AD.
+    citation: Nat Commun. 2019;10(1):828.
+    link_label: https://www.nature.com/articles/s41467-019-08803-z
+    graphic: /pics/publications/Stein2019.png
+additional:
+  - title: >
+      A deficiency screen identifies genomic regions critical for sperm
+      head-tail connection.
+    authors: Galletta BJ, Konstantinidou P, Haase AD, Rusan NM.
+    citation: G3 (Bethesda). 2025 Feb 5;15.
+    link_label: https://academic.oup.com/g3journal/article/15/2/jkae275/7928772
+  - title: >
+      Activity of the mammalian DNA transposon piggyBat from Myotis lucifugus is
+      restricted by its own transposon ends.
+    authors: >
+      Hickman AB, Lannes L, Furman CM, Hong C, Franklin L, Ghirlando R, Ghosh
+      A, Luo W, Konstantinidou P, Lorenzi HA, Grove A, Haase AD, Wilson MH, Dyda
+      F.
+    citation: Nat Commun. 2025 Jan 7;16:458.
+    link_label: https://www.nature.com/articles/s41467-024-55784-9
+  - title: PIWI-interacting RNAs who, what, when, where, why, and how.
+    authors: >
+      Haase AD, Ketting RF, Lai EC, van Rij RP, Siomi M, Svoboda P, van
+      Wolfswinkel JC, Wu PH.
+    citation: EMBO J. 2024 Nov;43:5335-5339.
+    link_label: https://www.embopress.org/doi/full/10.1038/s44318-024-00253-8
+    graphic: /pics/publications/Haase2024.png
+  - title: >
+      A deficiency screen identifies genomic regions critical for sperm
+      head-tail connection.
+    authors: Galletta BJ, Konstantinidou P, Haase AD, Rusan NM.
+    citation: bioRxiv. 2024 Aug 21.
+    link_label: https://academic.oup.com/g3journal/article/15/2/jkae275/7928772
+  - title: >
+      Dynamic co-evolution of transposable elements and the piRNA pathway in
+      African cichlid fishes.
+    authors: >
+      Almeida MV, Blumer M, Yuan CU, Sierra P, Price JL, Quah FX, Friman A,
+      Dallaire A, Vernaz G, Putman ALK, Smith AM, Joyce DA, Butter F, Haase AD,
+      Durbin R, Santos ME, Miska EA.
+    citation: bioRxiv. 2024 Apr 1.
+    link_label: https://link.springer.com/article/10.1186/s13059-025-03475-z
+  - title: Themes and variations on piRNA-guided transposon control.
+    authors: Loubalova Z, Konstantinidou P, Haase AD.
+    citation: Mob DNA. 2023 Sep 2;14:10.
+    link_label: https://link.springer.com/article/10.1186/s13100-023-00298-2
+    graphic: /pics/publications/Loubalova2023.png
+  - title: >
+      Transposase N-terminal phosphorylation and asymmetric transposon ends
+      inhibit piggyBac transposition in mammalian cells.
+    authors: >
+      Luo W, Hickman AB, Genzor P, Ghirlando R, Furman CM, Menshikh A, Haase A,
+      Dyda F, Wilson MH.
+    citation: Nucleic Acids Res. 2022 Dec 9;50:13128-13142.
+    link_label: https://academic.oup.com/nar/article/50/22/13128/6946998
+  - title: CRISPR-Cas9 Genome Editing and Rapid Selection of Cell Pools.
+    authors: Stoyko D, O T, Hernandez A, Konstantinidou P, Meng Q, Haase AD.
+    citation: Curr Protoc. 2022 Dec;2:e624.
+    link_label: https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpz1.624
+  - title: >
+      An introduction to PIWI-interacting RNAs (piRNAs) in the context of
+      metazoan small RNA silencing pathways.
+    authors: Haase AD.
+    citation: RNA Biol. 2022 Jan;19:1094-1102.
+    link_label: https://www.tandfonline.com/doi/abs/10.1080/15476286.2022.2132359%4010.1080/tfocoll.2024.0.issue-RNA-Maturation
+    graphic: /pics/publications/Haase2022.png
+  - title: >
+      A non-radioactive, improved PAR-CLIP and small RNA cDNA library
+      preparation protocol.
+    authors: >
+      Anastasakis DG, Jacob A, Konstantinidou P, Meguro K, Claypool D, Cekan P,
+      Haase AD, Hafner M.
+    citation: Nucleic Acids Res. 2021 May 7;49:e45.
+    link_label: https://academic.oup.com/nar/article/49/8/e45/6121465
+  - title: >
+      Casposase structure and the mechanistic link between DNA transposition and
+      spacer acquisition by CRISPR-Cas.
+    authors: Hickman AB, Kailasan S, Genzor P, Haase AD, Dyda F.
+    citation: Elife. 2020 Jan 8;9.
+    link_label: https://elifesciences.org/articles/50004
+  - title: PiRNAs Rise to Rescue Koalas.
+    authors: Haase AD, Macfarlan TS.
+    citation: Cell. 2019 Oct 17;179:582-583.
+    link_label: https://www.cell.com/cell/fulltext/S0092-8674(19)31076-1
+  - title: >
+      Aberrant expression of select piRNA-pathway genes does not reactivate
+      piRNA silencing in cancer cells.
+    authors: Genzor P, Cordts SC, Bokil NV, Haase AD.
+    citation: Proc Natl Acad Sci U S A. 2019 Jun 4;116:11111-11112.
+    link_label: https://www.pnas.org/doi/10.1073/pnas.1906512116
+    graphic: /pics/publications/Genzor2019.png
+  - title: >
+      Argonaute-miRNA Complexes Silence Target mRNAs in the Nucleus of
+      Mammalian Stem Cells.
+    authors: >
+      Sarshad AA, Juan AH, Muler AIC, Anastasakis DG, Wang X, Genzor P, Feng X,
+      Tsai PF, Sun HW, Haase AD, Sartorelli V, Hafner M.
+    citation: Mol Cell. 2018 Sep 20;71:1040-1050.e8.
+    link_label: https://www.cell.com/molecular-cell/fulltext/S1097-2765(18)30589-6
+  - title: >
+      A Small RNA-Based Immune System Defends Germ Cells against Mobile Genetic
+      Elements.
+    authors: Haase AD.
+    citation: Stem Cells Int. 2016;2016:7595791.
+    link_label: https://onlinelibrary.wiley.com/doi/full/10.1155/2016/7595791
+  - title: >
+      Dephosphorylation of tyrosine 393 in argonaute 2 by protein tyrosine
+      phosphatase 1B regulates gene silencing in oncogenic RAS-induced
+      senescence.
+    authors: >
+      Yang M, Haase AD, Huang FK, Coulis G, Rivera KD, Dickinson BC, Chang CJ,
+      Pappin DJ, Neubert TA, Hannon GJ, Boivin B, Tonks NK.
+    citation: Mol Cell. 2014 Sep 4;55:782-90.
+    link_label: https://www.cell.com/article/S1097-2765(14)00611-X/fulltext
+  - title: >
+      The making of a slicer: activation of human Argonaute-1.
+    authors: Faehnle CR, Elkayam E, Haase AD, Hannon GJ, Joshua-Tor L.
+    citation: Cell Rep. 2013 Jun 27;3:1901-9.
+    link_label: https://www.cell.com/cell-reports/fulltext/S2211-1247(13)00266-0
+  - title: >
+      The structural biochemistry of Zucchini implicates it as a nuclease in
+      piRNA biogenesis.
+    authors: Ipsaro JJ, Haase AD, Knott SR, Joshua-Tor L, Hannon GJ.
+    citation: Nature. 2012 Nov 8;491:279-83.
+    link_label: https://www.nature.com/articles/nature11502
+    graphic: /pics/publications/Ipsaro2012.png
+  - title: The structure of human argonaute-2 in complex with miR-20a.
+    authors: Elkayam E, Kuhn CD, Tocilj A, Haase AD, Greene EM, Hannon GJ, Joshua-Tor L.
+    citation: Cell. 2012 Jul 6;150:100-10.
+    link_label: https://www.cell.com/fulltext/S0092-8674(12)00618-6
+  - title: >
+      Probing the initiation and effector phases of the somatic piRNA pathway in
+      Drosophila.
+    authors: >
+      Haase AD, Fenoglio S, Muerdter F, Guzzardo PM, Czech B, Pappin DJ, Chen
+      C, Gordon A, Hannon GJ.
+    citation: Genes Dev. 2010 Nov 15;24:2499-504.
+    link_label: https://genesdev.cshlp.org/content/24/22/2499.short
+  - title: >
+      The RNA-binding protein KSRP promotes the biogenesis of a subset of
+      microRNAs.
+    authors: >
+      Trabucchi M, Briata P, Garcia-Mayoral M, Haase AD, Filipowicz W, Ramos A,
+      Gherzi R, Rosenfeld MG.
+    citation: Nature. 2009 Jun 18;459:1010-4.
+    link_label: https://www.nature.com/articles/nature08025
+  - title: >
+      TRBP, a regulator of cellular PKR and HIV-1 virus expression, interacts
+      with Dicer and functions in RNA silencing.
+    authors: >
+      Haase AD, Jaskiewicz L, Zhang H, Lainé S, Sack R, Gatignol A, Filipowicz
+      W.
+    citation: EMBO Rep. 2005 Oct;6:961-7.
+    link_label: https://www.embopress.org/doi/full/10.1038/sj.embor.7400509
+  - title: >
+      TIS7 interacts with the mammalian SIN3 histone deacetylase complex in
+      epithelial cells.
+    authors: >
+      Vietor I, Vadivelu SK, Wick N, Hoffman R, Cotten M, Seiser C, Fialka I,
+      Wunderlich W, Haase A, Korinkova G, Brosch G, Huber LA.
+    citation: EMBO J. 2002 Sep 2;21:4621-31.
+    link_label: https://www.embopress.org/doi/full/10.1093/emboj/cdf461

@@ -1,0 +1,123 @@
+---
+layout: default
+---
+{% assign research = site.data.research %}
+{% assign pubs = site.data.publications %}
+<div class="home">
+  <section class="hero-lab">
+    <div class="hero-copy">
+      <p class="hero-kicker">RNA Biology Section</p>
+      <h1>Small RNA guardians of genome integrity.</h1>
+      <p>{{ research.goal }}</p>
+      <div class="pill-row">
+        <span class="pill">piRNA pathways</span>
+        <span class="pill">Genome surveillance</span>
+        <span class="pill">Interdisciplinary genetics</span>
+        <span class="pill">Bethesda, MD</span>
+      </div>
+      <div class="cta-row">
+        <a class="cta-primary" href="{{ '/research' | relative_url }}">Explore our research</a>
+        <a class="cta-secondary" href="{{ '/people' | relative_url }}">Meet the team</a>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <img src="{{ '/pics/labGhibli.png' | relative_url }}" alt="Stylized Haase Lab illustration">
+    </div>
+  </section>
+
+  <section>
+    <div class="section-heading">
+      <span></span>
+      <h2>Mission & approach</h2>
+    </div>
+    <div>
+        <article class="card">
+        <h3>Research Goal</h3>
+        <p>{{ research.goal }}</p>
+      </article></div><br>
+    <div class="grid-two">
+      <article class="card">
+        <h3>Current Focus</h3>
+        <p>{{ research.current_research }}</p>
+      </article>
+      <article class="card">
+        <h3>Why it matters</h3>
+        <p>{{ research.applying_research }}</p>
+      </article>
+    </div>
+    <div class="card card--glass plain-language">
+      <strong>In plain language</strong>
+      <p>{{ research.plain_language }}</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-heading">
+      <span></span>
+      <h2>Future directions</h2>
+    </div>
+    <div class="card">
+      <p>{{ research.need_for_study }}</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-heading">
+      <span></span>
+      <h2>Selected publications</h2>
+    </div>
+    <ul class="publication-list">
+      {% for paper in pubs.featured %}
+        <li>
+          <strong>{{ paper.title }}</strong><br>
+          <span class="publication-meta">{{ paper.authors }} {{ paper.citation }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+    <div class="cta-row" style="margin-top:1.5rem;">
+      <a class="cta-secondary" href="{{ '/publications' | relative_url }}">Browse full publication list</a>
+    </div>
+  </section>
+  
+  <section>
+    <div class="section-heading">
+      <span></span>
+      <h2>News</h2>
+    </div>
+    <div class="card">
+        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7346286048592756736" height="550"  width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+    </div>
+    <div class="cta-row" style="margin-top:1.5rem;">
+        <a class="cta-secondary" href="{{ '/news' | relative_url }}">More news from the lab</a>
+      </div>
+  </section>
+
+  <section>
+    <div class="section-heading">
+      <span></span>
+      <h2>Quick links</h2>
+    </div>
+    <div class="grid-two">
+      <article class="card">
+        <h3>People & culture</h3>
+        <p>Meet the scientists, trainees, and alumni powering our discoveries.</p>
+        <a href="{{ '/people' | relative_url }}">Lab roster →</a>
+      </article>
+      <article class="card">
+        <h3>Connect</h3>
+        <p>Collaborations, traineeships, and speaking invitations are always welcome.</p>
+        <a href="{{ '/contact' | relative_url }}">Contact the lab →</a>
+      </article>
+    </div>
+  </section>
+
+</div>
+
+<!--To run locally: 
+    echo 'export PATH="$(brew --prefix ruby)/bin:$PATH"' >> ~/.zshrcbundle exec jekyll serve
+    source ~/.zshrc
+    (gem install bundler jekyll) #not needed
+    export PATH="$(ruby -e 'puts Gem.bindir'):$PATH"
+    (jekyll -v) # not needed
+    bundle exec jekyll serve
+-->

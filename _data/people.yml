@@ -1,0 +1,157 @@
+team:
+  - name: "Astrid D. Haase, M.D., Ph.D."
+    preferred_name: "Astrid"
+    #pronouns: "Pronouns TBD"
+    role: "Section Chief, RNA Biology Section"
+    photo: "/pics/labMembers/AstridHaase.png"
+    photo_alt: "Astrid D. Haase in the lab"
+    focus_areas:
+      - Chromosome Biology
+      - Developmental Biology
+      - Genetics & Genomics
+      - Molecular Biology & Biochemistry
+      - RNA Biology
+    email: "astrid.haase [at] nih [dot] gov"
+    professional_experience: >
+      Senior Investigator (with tenure), NIDDK, NIH, 2023–present
+      Stadtman Tenure-Track Investigator, NIDDK, NIH, 2015–2023
+      Postdoctoral Fellow, Cold Spring Harbor Laboratory, 2007–2015
+      Ph.D., University of Basel, Switzerland, 2007; Friedrich Miescher Institute (FMI), 2002–2007
+      M.D., University of Vienna, Austria; Institute of Molecular Pathology (IMP), 2000–2002
+    summary: >
+      Astrid leads the RNA Biology Section, investigating how small RNAs guard
+      genome integrity. She earned her MD in Vienna and PhD in Basel, trained
+      with Witek Filipowicz and Greg Hannon, and joined the intramural program
+      as a Stadtman Investigator before receiving tenure in 2023.
+  - name: "Qingcai Meng, Ph.D."
+    preferred_name: "Cai"
+    #pronouns: "Pronouns TBD"
+    role: "Research Fellow"
+    #photo: "/pics/labMembers/CaiMeng.png"
+    #photo_alt: "Qingcai Meng portrait"
+    email: "qingcai.meng [at] nih [dot] gov"
+    education: "Ph.D. — School of Life Science and Biotechnology, Shanghai Jiao Tong University"
+    summary: >
+      Qingcai’s graduate work focused on floral organ development in rice. In
+      the lab she investigates mechanisms of nuclear RNA export in piRNA
+      biology and enjoys playing and growing flowers outside of research.
+  - name: "Zuzana Loubalova, Ph.D."
+    preferred_name: "Zuzka"
+    #pronouns: "Pronouns TBD"
+    role: "Postdoctoral Fellow"
+    photo: "/pics/labMembers/ZuzkaLoubalova.png"
+    photo_alt: "Zuzana Loubalova portrait"
+    email: "zuzana.loubalova [at] nih [dot] gov"
+    education: "Ph.D. — Charles University, Prague"
+    summary: >
+      Zuzka examined piRNA pathway biology in the mammalian female germline
+      during graduate work in Petr Svoboda’s lab. She now explores piRNA
+      pathways through genomics and mechanistic lenses and loves hiking and
+      enjoying good beer with friends.
+  - name: "Angel Jaimes, B.Sc."
+    preferred_name: "Angel"
+    pronouns: "he/him"
+    role: "Postbaccalaureate Fellow (IRTA)"
+    photo: "/pics/labMembers/AngelJaimes.jpg"
+    photo_alt: "Angel Jaimes portrait"
+    email: "angel.jaimes [at] nih [dot] gov"
+    education: "B.Sc. — Kennesaw State University, GA"
+    summary: >
+      I’m interested in applying comparative approaches to study the 
+      evolution and molecular mechanisms of mammalian piRNAs.
+  - name: "Franziska Ahrend, M.Sc."
+    preferred_name: "Franziska"
+    pronouns: "she/her"
+    role: "Graduate Student (NIH-GPP & University of Regensburg)"
+    photo: "/pics/labMembers/FranziskaAhrend.png"
+    photo_alt: "Franziska Ahrend portrait"
+    email: "franziska.ahrend [at] nih [dot] gov"
+    education: >
+      M.Sc. — Troy University; B.Sc. Molecular Biology — Johannes Gutenberg
+      University & Barry University
+    summary: >
+      Franziska is a bioinformatician studying how piRNAs silence mobile
+      genetic elements during spermatogenesis in mice and humans. She is also
+      interested in applying machine learning to diagnostics, and outside the
+      lab she spends time outdoors, plays tennis, and enjoys family time.
+  - name: "Hibo Hassan, B.Sc."
+    preferred_name: "Hibo"
+    #pronouns: "Pronouns TBD"
+    role: "Postbaccalaureate Fellow (IRTA)"
+    photo: "/pics/labMembers/HiboHassan.jpg"
+    photo_alt: "Hibo Hassan portrait"
+    email: "hibo.hassan [at] nih [dot] gov"
+    education: "B.Sc. — George Mason University, VA"
+    summary: >
+        A post-baccalaureate fellow establishing a controllable protein degradation 
+        system in Drosophila ovarian somatic sheath cells to define the roles of key 
+        pathway components and uncover what shapes piRNA populations over time.
+        Outside the lab, I enjoy trying new coffee shops, watching basketball, and movies.
+  - name: "Andrej Radoja, B.Sc."
+    preferred_name: "Andrej"
+    pronouns: "he/him/his"
+    role: "Postbaccalaureate Fellow (IRTA)"
+    photo: "/pics/labMembers/AndrejRadoja.jpeg"
+    photo_alt: "Andrej Radoja portrait"
+    email: "andrej.radoja [at] nih [dot] gov"
+    education: "B.Sc. — University of Maryland, MD"
+    summary: >
+        Hi my name is Andrej and I'm a first-year postbac and incoming first-year medical
+        student. In our lab, I'm currently looking into the function and efficacy of crucial auxiliary
+        proteins in the piRNA pathway across different mammalian species. In my free time I like to go
+        on hikes with my dog, skateboard, play sports, and watch movies.
+alumni:
+  - name: "Parthena (Thenia) Konstantinidou, Ph.D."
+    photo: "/pics/labMembers/TheniaKonstantinidou.png"
+    photo_alt: "Parthena Konstantinidou celebrating graduation"
+    note: >
+      Thenia started as a graduate student in the NIH Graduate Partnerships
+      Program with the University of Patras, Greece and continued her time as a
+      postdoctoral fellow in the lab. Thenia studied piRNA biogenesis and piRNA-mediated gene silencing in
+      Drosophila ovaries. She is a space enthusiast who enjoys reading and
+      outdoor adventures with friends.
+  - name: "Pavol Genzor, Ph.D."
+    photo: "/pics/labMembers/PavolGenzor.png"
+    photo_alt: "Pavol Genzor portrait"
+    note: >
+      Research Fellow (Postdoc VF 2015–2020, RF 2020–2022); Senior Computational
+      Biologist at the Henry M. Jackson Foundation for the Advancement of
+      Military Medicine; Ph.D. — Johns Hopkins University.
+  - name: "Liora Feshbach, B.Sc."
+    note: "Special Volunteer (2025)"
+  - name: "Elizabeth Giordano, B.Sc."
+    note: "Rotation Student (2024)"
+  - name: "Aleksandr (Alex) Friman, M.Sc., M.Eng."
+    note: >
+      Graduate student in the NIH Graduate Partnerships Program with the
+      University of Maryland, College Park; M.Sc. in Bioinformatics from Johns
+      Hopkins University.
+  - name: "Timothy O., B.Sc."
+    photo: "/pics/labMembers/TimothyO.png"
+    photo_alt: "Timothy O. smiling outdoors"
+    note: "Postbaccalaureate IRTA."
+  - name: "Adrianna Hernandez"
+    note: "Postbac IRTA (2021–2023, shared with NCI/CCR); Medical student."
+  - name: "Daniel (Dan) Stoyko"
+    note: "Postbac IRTA (2019–2022); Ph.D. student at MIT; B.Sc. — Stockton University."
+  - name: "Celine Marlin Andrews"
+    note: "Postbac IRTA (2018–2020); Medical student at Virginia Tech Carilion."
+  - name: "Sanga Mitra, Ph.D."
+    note: "Postdoctoral Visiting Fellow (2016–2019); Senior Research Fellow at the India Association for Science."
+  - name: "Prisma Lopez"
+    note: "Postbac IRTA (2016–2017); Researcher at Tufts Medical Center."
+  - name: "Leif Benner"
+    note: "Rotation student (May–Aug 2017); Ph.D. student, Johns Hopkins/NIH."
+  - name: "Alexandra Elchert"
+    note: "Postbac IRTA (2017–2019); Ph.D. student, Harvard Medical School."
+  - name: "Sushi Sobti"
+    note: "Postbac IRTA (2016–2018); Ph.D. student, UCSF."
+  - name: "Neha Bokil"
+    note: "Postbac IRTA (2016–2017); Ph.D. student, MIT."
+  - name: "Seth Cordts"
+    note: "Postbac IRTA (2015–2016); Ph.D. student, Stanford."
+  - name: "Chad Stein"
+    note: "Postbac IRTA (2015–2017); Ph.D. student, Harvard Medical School."
+  - name: "Soyeon Showman"
+    note: "Postbac IRTA (2015–2016); Ph.D. student, University of Washington."
+
