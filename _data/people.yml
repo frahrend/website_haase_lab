@@ -27,8 +27,8 @@ team:
     preferred_name: "Cai"
     #pronouns: "Pronouns TBD"
     role: "Research Fellow"
-    #photo: "/pics/labMembers/CaiMeng.png"
-    #photo_alt: "Qingcai Meng portrait"
+    photo: "/pics/labMembers/CaiMeng.png"
+    photo_alt: "Qingcai Meng portrait"
     email: "qingcai.meng [at] nih [dot] gov"
     education: "Ph.D. — School of Life Science and Biotechnology, Shanghai Jiao Tong University"
     summary: >
