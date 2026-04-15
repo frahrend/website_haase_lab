@@ -101,6 +101,50 @@ team:
         student. In our lab, I'm currently looking into the function and efficacy of crucial auxiliary
         proteins in the piRNA pathway across different mammalian species. In my free time I like to go
         on hikes with my dog, skateboard, play sports, and watch movies.
+  - name: "Namra Siddiqui, Ph.D."
+    preferred_name: "Namra"
+    pronouns: "she/her"
+    role: "Postdoctoral Fellow"
+    photo_alt: "Namra Siddiqui portrait"
+    education: "Ph.D. — Indian Institute of Technology, Delhi"
+    summary: >
+        ✨ Joining the lab in Summer 2026! ✨ <br>
+        Namra received her M.Sc. in 2018 from Jawaharlal Nehru University and 
+        Ph.D. in 2023 from the Indian Institute of Technology, Delhi (IIT Delhi). 
+        During her doctoral studies, she investigated the regulatory roles of small noncoding RNAs in bacteria 
+        under stress conditions. She then joined the University of Michigan, where she works on single-molecule 
+        fluorescence microscopy to study the effects of RNA modifications and initiation factors on eukaryotic 
+        translation regulation. Outside of the lab, she enjoys traveling, photography, and long drives with good music.
+  - name: "Asmita Panthi, Ph.D."
+    preferred_name: "Asmita"
+    role: "Postdoctoral Fellow"
+    photo: "/pics/labMembers/AsmitaPanthi.jpg"
+    photo_alt: "Asmita Panthi portrait"
+    education: "Ph.D. — University of Pennsylvania"
+    summary: >
+        ✨ Joining the lab in Summer 2026! ✨ <br>
+        I trained at the University of Pennsylvania studying RNA processing, focusing on the mechanistic details and functional 
+        significance of alternative splicing as a dynamic regulatory layer that shapes innate immune signaling responses.
+        I enjoy long-distance running, sushi, and wandering cities with great architecture.
+  - name: "Ishareet Sohal, B.Sc."
+    preferred_name: "Ish"
+    pronouns: "she/her/hers"
+    role: "Postbaccalaureate Fellow (IRTA)"
+    photo: "/pics/labMembers/IshSohal.jpg"
+    photo_alt: "Ish Sohal portrait"
+    email: "ishareet.sohal [at] nih [dot] gov"
+    education: "B.Sc. Rutgers University – New Brunswick (Genetics)"
+    summary: >
+        ✨ Joining the lab in Summer 2026! ✨ <br>
+        Ishareet Sohal (“Ish”) is a post-baccalaureate researcher at the NIH, joining Astrid’s lab at NIDDK. 
+        She earned her Bachelor’s degree in Genetics from Rutgers University, where she studied the effects 
+        of lead exposure on blood coagulation, and later conducted research at the University of Pennsylvania 
+        on the RNA helicase DDX39 in repeat expansion disorders. At the National Eye Institute, she investigated 
+        genetic mutations underlying retinal disease using murine models. In the Haase Lab, Ish is excited to study 
+        PIWI-interacting RNAs (piRNAs) and their roles in gene regulation and genome stability. 
+        Outside the lab, Ish enjoys sightseeing, collecting retro video games, and studying the Classics, including 
+        time spent volunteering at an archaeological site in Pompeii. She is always happy to chat about genetics, 
+        ancient history, or why retro games are better than modern ones.
 alumni:
   - name: "Parthena (Thenia) Konstantinidou, Ph.D."
     photo: "/pics/labMembers/TheniaKonstantinidou.png"
