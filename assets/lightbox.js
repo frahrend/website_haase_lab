@@ -19,11 +19,13 @@
     galleryImages = Array.from(figures).map((figure, index) => {
       const img = figure.querySelector('img');
       const caption = figure.querySelector('figcaption');
+      const isGraphic = figure.closest('.graphic-card') !== null;
       
       return {
         src: img.src,
         alt: img.alt,
-        caption: caption ? caption.textContent : ''
+        caption: caption ? caption.textContent : '',
+        isGraphic: isGraphic
       };
     });
 
@@ -125,6 +127,12 @@
     imgElement.src = image.src;
     imgElement.alt = image.alt;
     captionElement.textContent = image.caption;
+
+    if (image.isGraphic) {
+      imgElement.classList.add('lightbox__image--graphic');
+    } else {
+      imgElement.classList.remove('lightbox__image--graphic');
+    }
   }
 
   function showPreviousImage() {

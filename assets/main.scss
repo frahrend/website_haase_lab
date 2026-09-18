@@ -386,6 +386,12 @@ main {
   object-fit: contain;
 }
 
+.lightbox__image--graphic {
+  background-color: #fff;
+  padding: 1.5rem;
+  box-sizing: border-box;
+}
+
 .lightbox__caption {
   margin-top: 1.5rem;
   padding: 1rem 2rem;
@@ -485,6 +491,10 @@ main {
   .lightbox__caption {
     font-size: 0.9rem;
     padding: 0.75rem 1.5rem;
+  }
+
+  .lightbox__image--graphic {
+    padding: 0.75rem;
   }
 }
 
