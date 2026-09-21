@@ -110,7 +110,13 @@ permalink: /people
         <!--<div class="person-photo person-photo--placeholder">Photo coming soon</div>--><br>
       {% endif %}
       <h3>{{ alum.name }}</h3>
-      <p class="person-note">{{ alum.note }}</p>
+      {% if alum.role %}
+        <div class="person-meta">EX - {{ alum.role }}</div>
+      {% endif %}
+      {% if alum.post_NIH %}
+        <p><strong>Post-NIH position:</strong> {{ alum.post_NIH }}</p>
+      {% endif %}
+      <!--<p class="person-summary">{{ alum.summary }}</p>-->
     </article>
   {% endfor %}
 </section>

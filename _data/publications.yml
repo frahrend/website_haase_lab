@@ -1,5 +1,12 @@
 featured:
   - title: >
+      In collaboration with the Sasaki Lab: Generation of spermatogonia from human and non-human primate pluripotent stem cells
+    authors: >
+      Whelan E. C., Guo M., Yokomizo R., Seita Y., Hwang Y. S., Shirafuta Y., Leu N. A., Cheng K., Ahrend F., Haase A. D., Sasaki K.
+    citation: Cell Stem Cell. 2026.
+    link_label: https://www.sciencedirect.com/science/article/pii/S1934590926002298
+    graphic: /pics/publications/Whelan2026.jpg
+  - title: >
       Pachytene piRNAs define a conserved program of meiotic gene regulation
     authors: >
       Loubalova Z., Ahrend, F., Stoyko, D., Cosby, R., Ralls, S., Meister, G., Macfarlan, T., Haase, A.D.
