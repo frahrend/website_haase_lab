@@ -566,6 +566,72 @@ main {
   flex-grow: 1;
 }
 
+.graphic-card--wide {
+  grid-column: span 2;
+}
+
+@media (max-width: 520px) {
+  .graphic-card--wide {
+    grid-column: auto;
+  }
+}
+
+.software-intro {
+  color: var(--slate);
+}
+
+.software-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  color: var(--ink);
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.software-card:hover {
+  text-decoration: none;
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px rgba(10, 20, 30, 0.14);
+}
+
+.software-card p {
+  margin: 0;
+  color: var(--slate);
+}
+
+.software-card code {
+  overflow-wrap: anywhere;
+}
+
+.software-logo {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  height: 44px;
+}
+
+.software-logo img {
+  height: 100%;
+  width: auto;
+}
+
+/* Bottom-align the GitHub mark with the Bioconductor tagline */
+.software-logo--github {
+  height: 36px;
+  margin-top: 8px;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #1f2328;
+}
+
+.software-link {
+  margin-top: auto;
+  color: var(--seafoam);
+  font-weight: 600;
+}
+
 @media (max-width: 640px) {
   .hero-lab {
     padding: 2rem;

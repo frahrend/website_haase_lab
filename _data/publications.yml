@@ -224,3 +224,39 @@ additional:
       Wunderlich W, Haase A, Korinkova G, Brosch G, Huber LA.
     citation: EMBO J. 2002 Sep 2;21:4621-31.
     link_label: https://www.embopress.org/doi/full/10.1093/emboj/cdf461
+
+# Display order of the graphical abstracts on the Publications page (see AGENTS.md).
+# Each entry points to a publication's `graphic`. Use `wide: true` for images
+# about 2:1 or wider; they span two of the three columns.
+graphical_abstracts:
+  # Square
+  - graphic: /pics/publications/Whelan2026.jpg
+  - graphic: /pics/publications/Ahrend2025.png
+  - graphic: /pics/publications/Konstantinidou2024.png
+  # Square + wide
+  - graphic: /pics/publications/Haase2024.png
+  - graphic: /pics/publications/Loubalova2023.png
+    wide: true
+  # Square + wide
+  - graphic: /pics/publications/Stoyko2022.png
+  - graphic: /pics/publications/Ipsaro2012.png
+    wide: true
+  # Wide + landscape
+  - graphic: /pics/publications/Meng2022.png
+    wide: true
+  - graphic: /pics/publications/Haase2022.png
+  # Landscape
+  - graphic: /pics/publications/Genzor2021.png
+  - graphic: /pics/publications/Stein2019.png
+  - graphic: /pics/publications/Genzor2019.png
+
+software:
+  - name: PICB
+    full_name: piRNA Cluster Builder
+    description: >
+      A flexible R toolkit for assembling, prioritizing, and characterizing
+      piRNA clusters from small RNA sequencing data.
+    paper: https://www.cell.com/cell-reports/fulltext/S2211-1247(24)01128-8
+    protocol: https://www.sciencedirect.com/science/article/pii/S2666166725001650
+    github: https://github.com/HaaseLab/PICB
+    bioconductor: https://bioconductor.org/packages/PICB
