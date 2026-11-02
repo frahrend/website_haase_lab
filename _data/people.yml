@@ -80,6 +80,7 @@ team:
     preferred_name: "Namra"
     pronouns: "she/her"
     role: "Postdoctoral Fellow"
+    photo: "/pics/labMembers/NamraSiddiqui.jpg"
     photo_alt: "Namra Siddiqui portrait"
     education: "Ph.D. — Indian Institute of Technology, Delhi"
     summary: >
@@ -216,4 +217,3 @@ alumni:
   - name: "Soyeon Showman"
     role: "Postbac (2015–2016)"
     post_NIH: "PhD Student, University of Washington & <br>Postdoctoral Researcher, Fred Hutchinson Cancer Center"
-
