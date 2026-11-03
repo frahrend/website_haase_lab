@@ -566,6 +566,12 @@ main {
   flex-grow: 1;
 }
 
+.graphic-title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
 .graphic-card--wide {
   grid-column: span 2;
 }

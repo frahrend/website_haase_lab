@@ -22,7 +22,7 @@ permalink: /publications
         <a href="{{ pub.link_label }}" target="_blank" rel="noreferrer" class="graphic-card{% if item.wide %} graphic-card--wide{% endif %}">
           <figure>
             <img src="{{ pub.graphic | relative_url }}" alt="Graphical abstract for {{ pub.title }}">
-            <figcaption>{{ pub.title | truncate: 100 }}</figcaption>
+            <figcaption data-full-title="{{ pub.title | strip | escape }}"><span class="graphic-title">{{ pub.title | truncate: 100 }}</span></figcaption>
           </figure>
         </a>
       {% endif %}
@@ -89,3 +89,5 @@ permalink: /publications
   </ul>
 </section>
 
+
+<script src="{{ '/assets/graphic-titles.js' | relative_url }}"></script>

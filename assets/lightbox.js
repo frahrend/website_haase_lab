@@ -24,7 +24,7 @@
       return {
         src: img.src,
         alt: img.alt,
-        caption: caption ? caption.textContent : '',
+        caption: caption ? (caption.dataset.fullTitle || caption.textContent) : '',
         isGraphic: isGraphic
       };
     });
